@@ -7,7 +7,7 @@ The purpose of the templates are to provide a starting point as you write produc
 ## Templates
 The templates included in this repository are:
 
-- [**General**](general.doc): This is the most generalized topic template which includes many starter sections that can help you get a jump start of just about any topic.
+- [**General**](general.adoc): This is the most generalized topic template which includes many starter sections that can help you get a jump start of just about any topic.
 
 ## Using the Templates
 
