@@ -1,0 +1,75 @@
+﻿= Topic Title
+
+== Purpose
+This topic
+
+== Required Background/Prerequisites
+
+- *Topic Name*: Purpose
+
+== In this Topic
+toc::[]
+
+== Introduction/Overview
+////
+Control or feature introduction
+////
+
+== Configuration Summary
+////
+More detailed explanations regarding the control and/or feature
+////
+
+== Configuration Details
+
+[options="header", cols="a,a,a"]
+|=======
+|In order to |use this property/method/event |and
+|Task 1 | |
+|Task 2 | |
+|Task 3 | |
+|=======
+
+== Configuring Item 1 Feature/Setting/Aspect/Task
+////
+Overview or description
+////
+
+image::image-name.png[]
+
+=== Members
+
+[options="header", cols="a,a,a"]
+|=======
+|In order to |use this property/method/event |and
+|Task 1 | |
+|Task 2 | |
+|Task 3 | |
+|=======
+
+=== Example
+The following code snippet(s) demonstrate/shows/implements...
+
+
+[source,xaml]
+----
+
+----
+
+[source,csharp]
+----
+
+----
+
+[source,vb]
+----
+
+----
+
+== Related Content
+
+=== Topics
+- *link:link-to-topic[Topic Name]* - description 
+
+=== Samples
+- *link:link-to-sample[Sample Name]* - description 
