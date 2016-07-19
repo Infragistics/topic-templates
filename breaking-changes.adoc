@@ -1,0 +1,29 @@
+﻿= Breaking Changes in 20XX Volume X
+
+The following table summarize the breaking changes of the Infragistics <PRODUCT> 20XX Volume X. Detailed explanation of the issues are provided after the summary table.
+
+== Legend
+
+- image:images\workaround.png[alt="Workaround"] - Workaround available
+- image:images\noworkaround.png[alt="No Workaround"] - No known workaround
+- image:images\fix.png[alt="Fix Planned"] - Fix planned
+
+[options="header", cols="a,a,a"]
+|=======
+|Control |Issue | Status
+|<CONTROL1> | Issue title | image:images\workaround.png[alt="Workaround"]
+|<CONTROL2> | Issue title | image:images\noworkaround.png[alt="No workaround"]
+|<CONTROL3> | Issue title | image:images\fix.png[alt="Fix Planned"]
+|=======
+
+== Control 1
+
+=== Issue Title
+Description of issue...
+
+image:screenshot.png[]
+
+Description of workaround...
+
+=== Related Topics
+- *link:link-to-topic[Topic Name]* - description 

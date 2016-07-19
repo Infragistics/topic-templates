@@ -1,4 +1,4 @@
-﻿= Topic Title
+﻿= <TOPIC_TITLE>
 
 == Purpose
 This topic

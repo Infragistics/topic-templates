@@ -1,15 +1,21 @@
-﻿# Infragistics Topic Templates
+﻿= Infragistics Topic Templates
 
-This repository includes AsciiDoc topic templates intended to be used with [Livewire](https://github.com/Infragistics/livewire) for writing [Infragistics help documentation](http://www.infragistics.com/support/online-documentation).
+This repository includes AsciiDoc topic templates intended to be used with link:https://github.com/Infragistics/livewire[Livewire] for writing link:http://www.infragistics.com/support/online-documentation[Infragistics help documentation].
 
 The purpose of the templates are to provide a starting point as you write product documentation. You may not use all sections and are expected to change the contents of the file from the template to best suit the content. In other words let the content you are writing about lead to toward the best topic structure rather than worrying about adhering to a document structure.
 
-## Templates
+== Templates
 The templates included in this repository are:
 
-- [**General**](general.adoc): This is the most generalized topic template which includes many starter sections that can help you get a jump start of just about any topic.
+- link:general.adoc[General]
+- link:adding.adoc[Adding]
+- link:breaking-changes.adoc[Breaking Changes]
+- link:landing-page.adoc[Landing Page]
+- link:user-interactions-and-usability.adoc[User Interactions and Usability]
+- link:visual-elements.adoc[Visual Elements]
+- link:whats-new.adoc[What's New]
 
-## Using the Templates
+== Using the Templates
 
 To use the templates you simply need to clone this repository:
 

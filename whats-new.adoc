@@ -1,0 +1,22 @@
+﻿= What’s New in 20XX Volume X
+
+This topic gives a brief overview of the new controls and features introduced in the Infragistics <PRODUCT> 20XX Volume X release.
+
+In this topic:
+
+toc::[]
+
+== <CONTROL_1>
+
+== <FEATURE_NAME>
+
+<DESCRIPTION>
+
+image::screenshot.png[]
+
+=== Related Topics
+- 
+
+
+
+

@@ -1,0 +1,74 @@
+﻿= <TOPIC_TITLE>
+
+In this topic:
+
+toc::[]
+
+== Purpose
+
+Descrition of purpose...
+
+
+
+
+== Required Background/Prerequisites
+- link:link-to-topic[Topic Name]: description
+- link:link-to-topic[Topic Name]: description 
+
+
+
+
+[options="header", cols="a,a,a,a"]
+|=======
+|The user can | Using... | Details | Configurable?
+
+
+
+|<<Interaction_1_ID, INTERACTION_1_NAME>>
+|<DESCRIPTION>
+|<DESCRIPTION> 
+|image:images\workaround.png[alt="Workaround"] / image:images\noworkaround.png[alt="No  Workaround"] 
+
+- link:link-to-sample[Sample Name]
+
+
+
+
+|<<Interaction_2_ID, INTERACTION_2_NAME>>
+|<DESCRIPTION>
+|<DESCRIPTION> 
+|image:images\workaround.png[alt="Workaround"] / image:images\noworkaround.png[alt="No  Workaround"] 
+
+- link:link-to-sample[Sample Name]
+
+|=======
+
+
+
+
+
+[[Interaction_1_ID]]
+== Interaction 1 Name
+
+<DESCRIPTION>
+
+image::screenshot.png[]
+
+=== Related topics:
+- link:link-to-topic[Topic Name]: description
+- link:link-to-topic[Topic Name]: description
+
+
+
+
+
+[[Interaction_2_ID]]
+== Interaction 2 Name
+
+<DESCRIPTION>
+
+image::screenshot.png[]
+
+=== Related topics:
+- link:link-to-topic[Topic Name]: description
+- link:link-to-topic[Topic Name]: description

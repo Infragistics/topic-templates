@@ -1,0 +1,42 @@
+﻿= <TOPIC_TITLE>
+
+== Purpose
+
+<DESCRIPTION>
+
+== Required Background/Prerequisites
+
+toc::[]
+
+
+== <PROCEDURE_NAME>
+<Explain what the procedure does. You can also add some conceptual information if necessary>
+
+=== Preview
+The following screenshot is a preview of the final result.
+
+image::screenshot.png[]
+
+
+== Steps
+
+. Step title and description
+. Step title and description
+.. Step title and description
+.. Step title and description
+
+=== Full Code
+The following is the full code for this procedure.
+
+[source, csharp]
+----
+// code goes here
+----
+
+== Related Content
+
+=== Topics
+- link:topic-name.html[Topic Name] - description 
+
+=== Samples
+- link:sample[Sample] - description 

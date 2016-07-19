@@ -1,0 +1,13 @@
+﻿= <TOPIC_TITLE>
+
+The topics in this section provide information about <ADD_DETAILS_HERE>.
+
+[options="header", cols="a,a"]
+|=======
+|Topic| Purpose
+|link:link-to-topic[Topic Name] | <DESCRIPTION>
+|link:link-to-topic[Topic Name] | <DESCRIPTION>
+|link:link-to-topic[Topic Name] | <DESCRIPTION>
+|=======
+
+

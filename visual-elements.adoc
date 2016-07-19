@@ -1,0 +1,36 @@
+﻿= <TOPIC_TITLE>
+
+In this topic:
+
+toc::[]
+
+== Purpose
+This topic provides an overview of the visual elements of the control.
+
+== Required Background / Prerequisites
+
+[options="header", cols="a,a"]
+|=======
+|Topic |Issue
+|link:link-to-topic[Topic Name] | <PURPOSE>
+|link:link-to-topic[Topic Name] | <PURPOSE>
+|link:link-to-topic[Topic Name] | <PURPOSE>
+|=======
+
+== Visual Element of <CONTROL_NAME> Control and Related Properties
+
+The following screenshot depicts the visual elements of the <CONTROL_NAME> control. The configurable elements are listed after the image.
+
+image::screenshot.png[]
+
+The following table maps the visual elements of the <CONTROL_NAME> control and the properties that configure them.
+
+
+== Related Content
+
+=== Topics
+- *link:link-to-topic[Topic Name]* - description 
+
+=== Samples
+- *link:link-to-sample[Sample Name]* - description 
+
