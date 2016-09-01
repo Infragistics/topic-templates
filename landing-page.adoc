@@ -1,6 +1,8 @@
 ﻿= <TOPIC_TITLE>
+﻿
+﻿//// Create a <SUMMARY> of the control by extracting a line or two from the control's about page
 
-The topics in this section provide information about <ADD_DETAILS_HERE>.
+<SUMMARY>. The following topics <DESCRIBE_LINKS>.
 
 [options="header", cols="a,a"]
 |=======
